@@ -1,21 +1,21 @@
 # 👨‍💻 **Nahuel Gallinoti** - Full Stack Developer  
 
-## 🌟 **Sobre mí**  
+## 🌟 **About Me**  
 
-¡Hola! Soy **Nahuel**, un **Full Stack Developer** apasionado por la tecnología y con más de **6 años de experiencia profesional** en el desarrollo de aplicaciones web y servicios.  
+Hello! I am **Nahuel**, a **Full Stack Developer** passionate about technology with over **6 years of professional experience** in developing web applications and services.  
 
-🔍 Mi enfoque está en crear **soluciones tecnológicas escalables y eficientes** que resuelvan problemas complejos mientras mejoran la experiencia del usuario.  
+🔍 My focus is on creating **scalable and efficient technological solutions** that solve complex problems while improving the user experience.  
 
-### **Datos clave:**  
-- 💼 **Actualmente:** **Analista de Programación en CIRSA**, trabajando en la optimización tecnológica en la industria del entretenimiento y casinos.  
-- 🏆 **Logros:** Diseñar sistemas empresariales avanzados y liderar equipos de pruebas y desarrollo en proyectos críticos.  
-- 📚 **Motivación:** Continuar aprendiendo nuevas tecnologías y metodologías para crecer y aportar innovación.  
+### **Key Facts:**  
+- 💼 **Currently:** **Programming Analyst at CIRSA**, working on technological optimization in the entertainment and casino industry.  
+- 🏆 **Achievements:** Designing advanced enterprise systems and leading test and development teams on critical projects.  
+- 📚 **Motivation:** Continue learning new technologies and methodologies to grow and contribute innovation.  
 
 ---
 
-## ⚙️ **Habilidades Técnicas**  
+## ⚙️ **Technical Skills**  
 
-### 💻 **Lenguajes y Frameworks**  
+### 💻 **Languages and Frameworks**  
 - **Frontend:**  
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
@@ -29,61 +29,75 @@
 
 ---
 
-### 🗄️ **Bases de Datos**  
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-F8DC75?style=flat-square&logo=microsoft-sql-server&logoColor=black)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
+### 🗄️ **Databases**
+- **Relational Databases:**
+  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)  
+  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-F8DC75?style=flat-square&logo=microsoft-sql-server&logoColor=black)  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
 
 ---
 
-### 🛠️ **Metodologías y Herramientas**  
-- **Gestión de Proyectos:**  
+### 🛠️ **Methodologies and Tools**  
+
+- **CI/CD and DevOps:**  
+  ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
+  
+- **Project Management:**  
   ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)  
   ![Kanban](https://img.shields.io/badge/-Kanban-007ACC?style=flat-square&logo=kanban&logoColor=white)  
 
-- **Colaboración:**  
+- **Collaboration:**  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 
 ---
 
-## 🏗️ **Experiencia Profesional**  
+
+
+## 🏗️ **Professional Experience**  
 
 ### **CIRSA**  
-**Analista de Programación**  
-_Noviembre 2023 - Presente_ | Barcelona, España  
-- Optimización de procesos tecnológicos en la industria del entretenimiento.  
-- Colaboración en proyectos de sistemas de casino y automatización.  
+**Programming Analyst**  
+_November 2023 - Present_ | Barcelona, Spain  
+- Optimizing technological processes in the entertainment industry.  
+- Collaborating on casino systems and automation projects.  
 
 ### **Entelgy**  
 **Full Stack Developer**  
-_Junio 2023 - Octubre 2023_ | Barcelona, España  
-- Desarrollo de aplicaciones .NET en el sector de casinos.  
-- Mejora de la experiencia del cliente mediante soluciones tecnológicas innovadoras.  
+_June 2023 - October 2023_ | Barcelona, Spain  
+- Developing .NET applications in the casino industry.  
+- Enhancing customer experience through innovative technological solutions.  
 
 ### **IncluIT**  
 **Full Stack Developer & QA Lead**  
-_Enero 2018 - Mayo 2023_ | Córdoba, Argentina  
-- Diseño y desarrollo de un sistema de gestión financiera empresarial.  
-- Liderazgo de pruebas QA en proyectos críticos de software, asegurando calidad y funcionalidad.  
+_January 2018 - May 2023_ | Córdoba, Argentina  
+- Designing and developing a financial management system for businesses.  
+- Leading QA testing on critical software projects, ensuring quality and functionality.  
 
 ---
 
-## 🌐 **Proyectos Destacados**  
+## 🌐 **Featured Projects**  
 
-### 🎨 [Portafolio Personal](https://github.com/nahuegallinoti/portfolio-rework)  
-Rediseño completo de mi portafolio, utilizando React y metodologías modernas. Incluye una presentación dinámica y atractiva de mis proyectos y habilidades.  
+### 🎨 [Personal Portfolio](https://github.com/nahuegallinoti/portfolio-rework)  
+A complete redesign of my portfolio using React and modern methodologies. It includes a dynamic and attractive presentation of my projects and skills.  
 
 ### 🖼️ [NFT Market React](https://github.com/nahuegallinoti/nft-market-react)  
-Aplicación interactiva para explorar y comerciar NFTs, con enfoque en diseño y usabilidad.  
+An interactive application for exploring and trading NFTs, with a focus on design and usability.  
 
 ---
 
-## 📫 **Contacto**  
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/PolVazquez">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nahuegallinoti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nahuegallinoti&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+---
+
+## 📫 **Contact**  
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-gallinoti-1b482213a/)  
 - 📧 **Email:** [nahuegallinoti@gmail.com](mailto:nahuegallinoti@gmail.com)  
-
----
-
-¡Gracias por visitar mi perfil! 😊
