@@ -7,7 +7,7 @@ Hello! I am **Nahuel**, a **Full Stack Developer** passionate about technology w
 🔍 My focus is on creating **scalable and efficient technological solutions** that solve complex problems while improving the user experience.  
 
 ### **Key Facts:**  
-- 💼 **Currently:** **Programming Analyst at CIRSA**, working on technological optimization in the entertainment and casino industry.  
+- 💼 **Currently:** **Programming Analyst**, working on technological optimization in the entertainment and casino industry.  
 - 🏆 **Achievements:** Designing advanced enterprise systems and leading test and development teams on critical projects.  
 - 📚 **Motivation:** Continue learning new technologies and methodologies to grow and contribute innovation.  
 
