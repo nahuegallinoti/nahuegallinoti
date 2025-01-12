@@ -80,7 +80,13 @@ _January 2018 - May 2023_ | Córdoba, Argentina
 ### 🎨 [Personal Portfolio](https://github.com/nahuegallinoti/portfolio-rework)  
 A complete redesign of my portfolio using React and modern methodologies. It includes a dynamic and attractive presentation of my projects and skills.  
 
-### 🖼️ [NFT Market React](https://github.com/nahuegallinoti/nft-market-react)  
+### 🤖 [Droyz](https://github.com/nahuegallinoti/droyz-web)  
+An innovative platform for managing and sharing digital content, focusing on user engagement and seamless integration.  
+
+### 🪩 [Output](https://github.com/nahuegallinoti/output-club)  
+A comprehensive tool for data visualization and analysis, designed to provide insights through interactive charts and reports.  
+
+### 💹 [NFT Market React](https://github.com/nahuegallinoti/nft-market-react)  
 An interactive application for exploring and trading NFTs, with a focus on design and usability.  
 
 ---
