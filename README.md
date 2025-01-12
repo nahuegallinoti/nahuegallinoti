@@ -31,9 +31,9 @@ Hello! I am **Nahuel**, a **Full Stack Developer** passionate about technology w
 
 ### 🗄️ **Databases**
 - **Relational Databases:**  
-  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)  
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-F8DC75?style=flat-square&logo=microsoft-sql-server&logoColor=black)  
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
+  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)  
 
 ---
 
