@@ -82,7 +82,7 @@ _January 2018 - May 2023_ | Córdoba, Argentina
 A complete redesign of my portfolio using React and modern methodologies. It includes a dynamic and attractive presentation of my projects and skills.  
 
 ### 🤖 [Droyz Web](https://droyz-web.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Droyz-blue?logo=github)](https://github.com/nahuegallinoti/droyz)  
+[![GitHub](https://img.shields.io/badge/GitHub-Droyz-blue?logo=github)](https://github.com/nahuegallinoti/nagaga-toy)  
 An innovative platform for managing and sharing digital content, focusing on user engagement and seamless integration.  
 
 ### 🪩 [Output Web](http://output-club.vercel.app/)  
