@@ -4,9 +4,8 @@
 
 Hello! I am **Nahuel**, a **Full Stack Developer** passionate about technology with over **6 years of professional experience** in developing web applications and services.  
 
-🔍 My focus is on creating **scalable and efficient technological solutions** that solve complex problems while improving the user experience.  
 
-### **Key Facts:**  
+### 🗝️ **Key Facts:**  
 - 💼 **Currently:** **Programming Analyst**, working on technological optimization in the entertainment and casino industry.  
 - 🏆 **Achievements:** Designing advanced enterprise systems and leading test and development teams on critical projects.  
 - 📚 **Motivation:** Continue learning new technologies and methodologies to grow and contribute innovation.  
