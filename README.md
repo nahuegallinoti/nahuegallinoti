@@ -77,16 +77,20 @@ _January 2018 - May 2023_ | Córdoba, Argentina
 
 ## 🌐 **Featured Projects**  
 
-### 🎨 [Personal Portfolio](https://github.com/nahuegallinoti/portfolio-rework)  
+### 🎨 [Portfolio Rework](http://portfolio-rework-rouge.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio--Rework-blue?logo=github)](https://github.com/nahuegallinoti/portfolio-rework)  
 A complete redesign of my portfolio using React and modern methodologies. It includes a dynamic and attractive presentation of my projects and skills.  
 
-### 🤖 [Droyz](https://github.com/nahuegallinoti/droyz-web)  
+### 🤖 [Droyz Web](https://droyz-web.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Droyz-blue?logo=github)](https://github.com/nahuegallinoti/droyz)  
 An innovative platform for managing and sharing digital content, focusing on user engagement and seamless integration.  
 
-### 🪩 [Output](https://github.com/nahuegallinoti/output-club)  
+### 🪩 [Output Web](http://output-club.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Output-blue?logo=github)](https://github.com/nahuegallinoti/output)  
 A comprehensive tool for data visualization and analysis, designed to provide insights through interactive charts and reports.  
 
-### 💹 [NFT Market React](https://github.com/nahuegallinoti/nft-market-react)  
+### 💹 [NFT Market React](https://github.com/nahuegallinoti/nft-market-react)
+[![GitHub](https://img.shields.io/badge/GitHub-Output-blue?logo=github)](https://github.com/nahuegallinoti/nft-market-react)  
 An interactive application for exploring and trading NFTs, with a focus on design and usability.  
 
 ---
