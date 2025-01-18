@@ -54,20 +54,17 @@ Hello! I am **Nahuel**, a **Full Stack Developer** passionate about technology w
 
 
 ## 🏗️ **Professional Experience**  
-
-### **CIRSA**  
+ 
 **Programming Analyst**  
 _November 2023 - Present_ | Barcelona, Spain  
 - Optimizing technological processes in the entertainment industry.  
 - Collaborating on casino systems and automation projects.  
 
-### **Entelgy**  
 **Full Stack Developer**  
 _June 2023 - October 2023_ | Barcelona, Spain  
 - Developing .NET applications in the casino industry.  
 - Enhancing customer experience through innovative technological solutions.  
 
-### **IncluIT**  
 **Full Stack Developer & QA Lead**  
 _January 2018 - May 2023_ | Córdoba, Argentina  
 - Designing and developing a financial management system for businesses.  
@@ -98,7 +95,7 @@ An interactive application for exploring and trading NFTs, with a focus on desig
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/PolVazquez">
+<a href="https://github.com/nahuegallinoti">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nahuegallinoti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nahuegallinoti&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -108,5 +105,4 @@ An interactive application for exploring and trading NFTs, with a focus on desig
 
 ## 📫 **Contact**  
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-gallinoti-1b482213a/)  
 - 📧 **Email:** [nahuegallinoti@gmail.com](mailto:nahuegallinoti@gmail.com)  
