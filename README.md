@@ -2,7 +2,8 @@
 
 ## 🌟 **About Me**  
 
-Hello! I am Nahuel, a Full Stack Developer building since 2018
+**Hello! I am Nahuel**
+Full Stack Developer building since 2018.
 
 ### 🗝️ **Key Facts:**  
 - 💼 **Currently:** **Programming Analyst**, working on technological optimization in the entertainment and casino industry.  
