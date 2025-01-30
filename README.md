@@ -2,8 +2,7 @@
 
 ## 🌟 **About Me**  
 
-Hello! I am **Nahuel**, a **Full Stack Developer** passionate about technology with over **6 years of professional experience** in developing web applications and services.  
-
+Hello! I am Nahuel, a Full Stack Developer building since 2018
 
 ### 🗝️ **Key Facts:**  
 - 💼 **Currently:** **Programming Analyst**, working on technological optimization in the entertainment and casino industry.  
