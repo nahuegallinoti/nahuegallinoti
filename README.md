@@ -3,8 +3,6 @@
 ### **Unimportant Facts:**  
 - 💼 **Currently:** **Programming Analyst**, working on technological optimization in the entertainment and casino industry.  
 
----
-
 ## **Technical Skills**  
 
 ### **Languages and Frameworks**  
