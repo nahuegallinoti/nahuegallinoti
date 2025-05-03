@@ -23,9 +23,9 @@
 
 ### **Databases**
 - **Relational Databases:**  
-  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-F8DC75?style=flat-square&logo=microsoft-sql-server&logoColor=black)  
+  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)  
+  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-F8DC75?style=flat-square&logo=microsoft-sql-server&logoColor=black)  
 
 ---
 
@@ -34,9 +34,9 @@
 - **CI/CD and DevOps:**  
   ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
   
-- **Project Management:**  
-  ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)  
+- **Project Management:**
   ![Kanban](https://img.shields.io/badge/-Kanban-007ACC?style=flat-square&logo=kanban&logoColor=white)  
+  ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)  
 
 - **Collaboration:**  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
