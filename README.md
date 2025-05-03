@@ -69,6 +69,7 @@ An innovative platform for managing and sharing digital content, focusing on use
 
 ### 🪩 [Output Disco](http://output-club.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Output-blue?logo=github)](https://github.com/nahuegallinoti/output-club) 
+
 A comprehensive tool for data visualization and analysis, designed to provide insights through interactive charts and reports.  
 
 ### 💹 [NFT Market](https://github.com/nahuegallinoti/nft-market-react)
