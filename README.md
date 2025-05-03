@@ -1,19 +1,17 @@
-# 👨‍💻 **Nahuel Gallinoti** - Full Stack Developer  
+# **Nahuel Gallinoti** - Full Stack Developer  
 
-## 🌟 **About Me**  
+## **About Me**  
 
 **Hello! I am Nahuel**. Full Stack Developer building since 2018.
 
-### 🗝️ **Key Facts:**  
+### **Unimportant Facts:**  
 - 💼 **Currently:** **Programming Analyst**, working on technological optimization in the entertainment and casino industry.  
-- 🏆 **Achievements:** Designing advanced enterprise systems and leading test and development teams on critical projects.  
-- 📚 **Motivation:** Continue learning new technologies and methodologies to grow and contribute innovation.  
 
 ---
 
-## ⚙️ **Technical Skills**  
+## **Technical Skills**  
 
-### 💻 **Languages and Frameworks**  
+### **Languages and Frameworks**  
 - **Frontend:**  
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
@@ -27,7 +25,7 @@
 
 ---
 
-### 🗄️ **Databases**
+### **Databases**
 - **Relational Databases:**  
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-F8DC75?style=flat-square&logo=microsoft-sql-server&logoColor=black)  
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
@@ -35,7 +33,7 @@
 
 ---
 
-### 🛠️ **Methodologies and Tools**  
+### **Methodologies and Tools**  
 
 - **CI/CD and DevOps:**  
   ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
@@ -52,7 +50,7 @@
 
 
 
-## 🏗️ **Professional Experience**  
+## **Professional Experience**  
  
 **Programming Analyst**  
 _November 2023 - Present_ | Barcelona, Spain  
@@ -71,7 +69,7 @@ _January 2018 - May 2023_ | Córdoba, Argentina
 
 ---
 
-## 🌐 **Featured Projects**  
+## **Featured Projects**  
 
 ### 🎨 [Portfolio](http://portfolio-rework-rouge.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-blue?logo=github)](https://github.com/nahuegallinoti/portfolio-rework)  
