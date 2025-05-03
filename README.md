@@ -1,7 +1,3 @@
-# **Nahuel Gallinoti** - Full Stack Developer  
-
-## **About Me**  
-
 **Hello! I am Nahuel**. Full Stack Developer building since 2018.
 
 ### **Unimportant Facts:**  
